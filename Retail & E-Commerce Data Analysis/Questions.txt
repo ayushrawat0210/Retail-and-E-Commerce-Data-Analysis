@@ -1,0 +1,53 @@
+🔹 Basic SQL Queries (10 Questions)
+
+1) Retrieve all columns for the first 10 rows in the dataset.
+2) Count the total number of products available.
+3) List all distinct product categories.
+4) Find the total number of products available in stock.
+5) Retrieve products with a rating of 5.
+6) Find the most expensive product in the dataset.
+7) Count how many products have a discount above 30%.
+8) Show all products from the brand 'Nike'.
+9) Get the average price of all products.
+10) Find the oldest manufactured product.
+
+🔹 Intermediate SQL Queries (15 Questions)
+
+1) Find the top 5 brands with the most products in stock.
+2) Retrieve all products sorted by rating (highest to lowest).
+3) Count how many products are available for each category.
+4) Find the total sales for each product category.
+5) Get the average discount for each category.
+6) Find all products where the price is higher than the average price.
+7) Retrieve the top 3 cities with the most sales.
+8) Find the percentage of products with stock greater than 100.
+9) Find the total revenue for each product category.
+10) Identify the cheapest and most expensive product for each category.
+11) Find all products that were manufactured after 2020 and have a rating above 4.
+12) Find brands with an average product price above $500.
+13) Find the best-selling product.
+14) Find products where the stock quantity is lower than the sales count.
+15) Find the brand with the highest total revenue.
+
+🔹 Advanced SQL Queries (20 Questions)
+
+1) Find the total revenue contribution of each brand within its category.
+2) Rank products based on their sales count within each category.
+3) Find the top 3 selling products in each category.
+4) Calculate the cumulative sales count for each product.
+5) Find the product with the highest price-to-rating ratio.
+6) Find the city that has the most high-rated products (rating > 4).
+7) Determine the sales trend for each year.
+8) Find the average discount for each rating level.
+9) Identify the category with the highest average price per product.
+10) Find brands where the total stock is more than double the total sales.
+11) Identify the most frequently sold product per category.
+12) Find the percentage of products that have received a rating below 3.
+13) Determine which year had the highest total sales across all products.
+14) Find the most popular brand based on total sales count.
+15) Find the product that generates the highest revenue.
+16) Determine the percentage contribution of each category to total revenue.
+17) Find all products with stock between 50 and 200 units.
+18) Retrieve all products that have been sold more than 5000 times but have a rating below 4.
+19) Identify the seller location that sells the most expensive products on average.
+20) Find the top 3 brands with the highest discounts applied on average.
